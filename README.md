@@ -1,8 +1,4 @@
-Voici un exemple de **README.md** bien structuré et professionnel pour votre projet "Tech Name Tag Stickers" :
-
----
-
-# **✨ Tech Name Tag Stickers**
+# **✨ STS_Tech Name Tag Stickers**
 
 An interactive and visually engaging project to showcase randomly generated name tag stickers inspired by the tech and development world. This fun and customizable tool is perfect for events, coding communities, or just having some creative fun!
 
@@ -24,7 +20,7 @@ An interactive and visually engaging project to showcase randomly generated name
 ├── index.html        # Main HTML file
 ├── assets/
 │   ├── style.css     # Custom styles
-│   └── script.js     # Interactive functionality
+│   └── script.js      # Interactive functionality
 └── README.md         # Project documentation
 ```
 
@@ -34,11 +30,11 @@ An interactive and visually engaging project to showcase randomly generated name
 
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/yourusername/tech-name-tag-stickers.git
+   git clone https://github.com/Dimitri-Tedom/STS_NameTagSticker.git
    ```
 2. Open the project folder:
    ```bash
-   cd tech-name-tag-stickers
+   cd STS_NameTagSticker
    ```
 3. Open `index.html` in your favorite browser.
 
@@ -69,7 +65,7 @@ Update `style.css` to adjust animations, layouts, or fonts.
 
 Include a link to a live demo or screenshot if possible:
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Demo+Screenshot)
+![Project Screenshot](./assets/preview-image.png)
 
 ---
 
